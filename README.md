@@ -10,12 +10,13 @@
 - CSS Grid
 - jQuery Basic
 - jQuery DOM & Animation
-- Bootstrap
+- Bootstrap 4
+- Materialize CSS
 - React JS
 - PrimeReact
 - Material-UI
 - React Reveal
-- React & Axios (API)
+- React & Axios
 - JSON-Server Fake API
 - Deploy to Heroku
 - Deploy to Netlify
